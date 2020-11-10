@@ -1,2 +1,4 @@
+*.zip
+*.jpg
 .ipynb_checkpoints/
-data/
+*/data/
